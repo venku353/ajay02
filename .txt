@@ -2,4 +2,4 @@ hi --venkatesh
 creating branch feature banch 
 creating branch test 01
 git mearge 2 test
-
+git dev merage mater branch
